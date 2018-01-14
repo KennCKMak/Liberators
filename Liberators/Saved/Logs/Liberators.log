@@ -1,0 +1,1356 @@
+﻿Log file open, 01/14/18 18:23:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Liberators
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(84075583) SRandInit(84075583).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.148692
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.14-23.23.42:895][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.14-23.23.42:895][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.14-23.23.42:901][  0]LogInit: Computer: KENNETH-PC
+[2018.01.14-23.23.42:901][  0]LogInit: User: Kenneth
+[2018.01.14-23.23.42:901][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.14-23.23.42:901][  0]LogInit: High frequency timer resolution =3.421875 MHz
+[2018.01.14-23.23.42:901][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.01.14-23.23.42:901][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.14-23.23.42:901][  0]LogMemory: Process Physical Memory: 273.37 MB used, 273.37 MB peak
+[2018.01.14-23.23.42:901][  0]LogMemory: Process Virtual Memory: 271.68 MB used, 271.68 MB peak
+[2018.01.14-23.23.42:901][  0]LogMemory: Physical Memory: 5812.64 MB used,  10531.22 MB free, 16343.86 MB total
+[2018.01.14-23.23.42:901][  0]LogMemory: Virtual Memory: 678.79 MB used,  10531.22 MB free, 134217728.00 MB total
+[2018.01.14-23.23.42:965][  0]LogInit: Using OS detected language (en-US).
+[2018.01.14-23.23.42:965][  0]LogInit: Using OS detected locale (en-CA).
+[2018.01.14-23.23.42:966][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.14-23.23.43:237][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.14-23.23.43:374][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.14-23.23.43:406][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.01.14-23.23.43:406][  0]LogD3D11RHI:       8096/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.14-23.23.43:408][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.14-23.23.43:408][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.14-23.23.43:408][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.14-23.23.43:413][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.14-23.23.43:413][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.14-23.23.43:413][  0]LogWindows: EnumDisplayDevices:
+[2018.01.14-23.23.43:413][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.01.14-23.23.43:413][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.01.14-23.23.43:413][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.01.14-23.23.43:413][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.01.14-23.23.43:413][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.14-23.23.43:413][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.01.14-23.23.43:413][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.14-23.23.43:413][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.14-23.23.43:413][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2018.01.14-23.23.43:428][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.14-23.23.43:439][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.14-23.23.43:440][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../../GitHub/Liberators/Liberators/Intermediate/Shaders/WorkingDirectory/5928/).
+[2018.01.14-23.23.43:440][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kenneth/AppData/Local/Temp/UnrealShaderWorkingDir/479E9A96490433243EC6E0BAF3684A81/'.
+[2018.01.14-23.23.43:440][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.14-23.23.44:002][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.14-23.23.44:027][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.14-23.23.44:052][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.14-23.23.44:078][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.14-23.23.44:103][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.14-23.23.44:128][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.14-23.23.44:154][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.14-23.23.44:179][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.14-23.23.44:200][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.14-23.23.44:227][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.14-23.23.44:252][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.14-23.23.44:277][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.14-23.23.44:302][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.14-23.23.44:328][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.14-23.23.44:382][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.14-23.23.44:382][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.14-23.23.44:408][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.14-23.23.44:426][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.14-23.23.44:481][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.14-23.23.44:495][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.14-23.23.44:521][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.14-23.23.44:546][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.14-23.23.44:571][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.14-23.23.44:598][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.14-23.23.44:598][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.14-23.23.44:805][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.14-23.23.44:854][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/Kenneth/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.14-23.23.44:854][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kenneth/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.14-23.23.44:854][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/Liberators/Liberators/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.14-23.23.44:854][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.14-23.23.44:854][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/Liberators/Liberators/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.14-23.23.44:854][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.14-23.23.44:865][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.14-23.23.44:877][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kenneth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.14-23.23.44:884][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.14-23.23.44:884][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.14-23.23.44:884][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.14-23.23.44:884][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.14-23.23.45:113][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.14-23.23.45:278][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.14-23.23.45:297][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.14-23.23.45:297][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.14-23.23.45:297][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.14-23.23.45:297][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.14-23.23.45:297][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.14-23.23.45:312][  0]LogNetVersion: Liberators , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3362685413)
+[2018.01.14-23.23.45:410][  0]LogAssetRegistry: FAssetRegistry took 0.0250 seconds to start up
+[2018.01.14-23.23.45:682][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.031998 seconds
+[2018.01.14-23.23.45:686][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.14-23.23.45:686][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.01.14-23.23.45:686][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.14-23.23.45:710][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.14-23.23.47:224][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.14-23.23.47:250][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.14-23.23.47:609][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.14-23.23.47:825][  0]SourceControl: Source control is disabled
+[2018.01.14-23.23.47:825][  0]SourceControl: Source control is disabled
+[2018.01.14-23.23.47:853][  0]SourceControl: Source control is disabled
+[2018.01.14-23.23.47:887][  0]SourceControl: Source control is disabled
+[2018.01.14-23.23.48:290][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.14-23.23.48:423][  0]LogOcInput: OculusInput pre-init called
+[2018.01.14-23.23.48:571][  0]LogEngine: Initializing Engine...
+[2018.01.14-23.23.48:573][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.01.14-23.23.48:708][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.14-23.23.48:708][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.14-23.23.48:769][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.14-23.23.48:775][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.23.48:842][  0]LogInit: FAudioDevice initialized.
+[2018.01.14-23.23.49:033][  0]LogDerivedDataCache: Saved boot cache 0.19s 78MB C:/Users/Kenneth/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.14-23.23.49:040][  0]LogInit: Texture streaming: Enabled
+[2018.01.14-23.23.49:085][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.14-23.23.49:145][  0]LogInit: Transaction tracking system initialized
+[2018.01.14-23.23.49:286][  0]BlueprintLog: New page: Editor Load
+[2018.01.14-23.23.49:695][  0]LocalizationService: Localization service is disabled
+[2018.01.14-23.23.50:052][  0]LogConsoleResponse: Display: 
+[2018.01.14-23.23.50:155][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.14-23.23.50:155][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.14-23.23.50:155][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.14-23.23.50:861][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Liberators/Liberators/Content/' took 0.01s
+[2018.01.14-23.23.50:889][  0]SourceControl: Source control is disabled
+[2018.01.14-23.23.50:889][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/Liberators/Liberators/Content/Levels/SplashScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.14-23.23.50:889][  0]LightingResults: New page: Lighting Build
+[2018.01.14-23.23.50:914][  0]MapCheck: New page: Map Check
+[2018.01.14-23.23.50:914][  0]LightingResults: New page: Lighting Build
+[2018.01.14-23.23.50:926][  0]LogLinker: Warning: Can't find file '/Game/Levels/SplashScreen_BuiltData'
+[2018.01.14-23.23.50:926][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/SplashScreen_BuiltData' while loading ../../../../../GitHub/Liberators/Liberators/Content/Levels/SplashScreen.umap.
+[2018.01.14-23.23.50:926][  0]LoadErrors: Error: /Game/Levels/SplashScreen : Can't find file for asset. /Game/Levels/SplashScreen_BuiltData
+[2018.01.14-23.23.50:926][  0]LogLinker: Warning: Can't find file '/Game/Levels/SplashScreen_BuiltData'
+[2018.01.14-23.23.50:926][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/SplashScreen_BuiltData' while loading ../../../../../GitHub/Liberators/Liberators/Content/Levels/SplashScreen.umap.
+[2018.01.14-23.23.50:926][  0]LoadErrors: Error: /Game/Levels/SplashScreen : Can't find file for asset. /Game/Levels/SplashScreen_BuiltData
+[2018.01.14-23.23.50:932][  0]LogLinker: Warning: Can't find file '/Game/Levels/SplashScreen_BuiltData'
+[2018.01.14-23.23.50:932][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/SplashScreen_BuiltData' while loading NULL.
+[2018.01.14-23.23.50:932][  0]LogLinker: Warning: Can't find file '/Game/Levels/SplashScreen_BuiltData'
+[2018.01.14-23.23.50:932][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/SplashScreen_BuiltData' while loading NULL.
+[2018.01.14-23.23.50:936][  0]LogLinker: Warning: Can't find file '/Game/Levels/SplashScreen_BuiltData'
+[2018.01.14-23.23.50:936][  0]LoadErrors: Failed to load /Game/Levels/SplashScreen_BuiltData.SplashScreen_BuiltData Referenced by PersistentLevel
+[2018.01.14-23.23.50:936][  0]LogLinker: Warning: Can't find file for asset '/Game/Levels/SplashScreen_BuiltData' while loading NULL.
+[2018.01.14-23.23.50:936][  0]LoadErrors: Failed to load /Game/Levels/SplashScreen_BuiltData.SplashScreen_BuiltData Referenced by PersistentLevel
+[2018.01.14-23.23.50:939][  0]LogAIModule: Creating AISystem for world SplashScreen
+[2018.01.14-23.23.50:939][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.14-23.23.50:947][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.14-23.23.50:973][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 26.816ms to complete.
+[2018.01.14-23.23.50:973][  0]LogFileHelpers: Loading map 'SplashScreen' took 0.084
+[2018.01.14-23.23.51:072][  0]LogCollectionManager: Loaded 0 collections in 0.000678 seconds
+[2018.01.14-23.23.51:128][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Liberators/Liberators/Saved/Collections/' took 0.01s
+[2018.01.14-23.23.51:128][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Liberators/Liberators/Content/Developers/Kenneth/Collections/' took 0.01s
+[2018.01.14-23.23.51:128][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Liberators/Liberators/Content/Collections/' took 0.01s
+[2018.01.14-23.23.51:128][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.14-23.23.51:135][  0]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 2363 classes and 519 folders.
+[2018.01.14-23.23.51:170][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.14-23.23.51:200][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.14-23.23.51:225][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.14-23.23.51:376][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.14-23.23.51:377][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.14-23.23.51:388][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.14-23.23.51:482][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.01.14-23.23.51:523][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.14-23.23.51:613][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.14-23.23.51:613][  0]LogLoad: (Engine Initialization) Total time: 10.01 seconds
+[2018.01.14-23.23.51:613][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.14-23.23.51:613][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.14-23.23.51:613][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.14-23.23.51:968][  0]LogAssetRegistry: Asset discovery search completed in 6.5809 seconds
+[2018.01.14-23.23.51:969][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.14-23.23.51:969][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2018.01.14-23.23.51:971][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.14-23.23.52:671][  3]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.14-23.23.52:953][  3]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.14-23.23.53:012][  3]LogRenderer: Reallocating scene render targets to support 1208x924 Format 10 NumSamples 1 (Frame:1).
+[2018.01.14-23.25.45:089][806]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 116 classes and 0 folders.
+[2018.01.14-23.25.45:486][806]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.14-23.26.10:153][595]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.14-23.26.42:862][908]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.14-23.26.59:406][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Assets/MarineSpriteTemplate_Sprite" FILE="../../../../../GitHub/Liberators/Liberators/Content/Images/Assets/MarineSpriteTemplate_Sprite.uasset" SILENT=true
+[2018.01.14-23.26.59:414][869]LogSavePackage: Save=6.23ms
+[2018.01.14-23.26.59:414][869]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/MarineSpriteTemplate_Sprite66C578E546BB2C2BE90680ADDE993E81.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Images/Assets/MarineSpriteTemplate_Sprite.uasset'
+[2018.01.14-23.26.59:414][869]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Images/Assets/MarineSpriteTemplate_Sprite.uasset
+[2018.01.14-23.27.25:966][749]LogRenderer: Reallocating scene render targets to support 1528x924 Format 10 NumSamples 1 (Frame:1).
+[2018.01.14-23.27.41:728][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Assets/MarineSprite" FILE="../../../../../GitHub/Liberators/Liberators/Content/Images/Assets/MarineSprite.uasset" SILENT=true
+[2018.01.14-23.27.41:735][625]LogSavePackage: Save=6.31ms
+[2018.01.14-23.27.41:735][625]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/MarineSpriteDC846FC341A4580AF03FB0BD6332348A.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Images/Assets/MarineSprite.uasset'
+[2018.01.14-23.27.41:735][625]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Images/Assets/MarineSprite.uasset
+[2018.01.14-23.28.03:038][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Assets/Marine_Flipbook" FILE="../../../../../GitHub/Liberators/Liberators/Content/Images/Assets/Marine_Flipbook.uasset" SILENT=true
+[2018.01.14-23.28.03:045][882]LogSavePackage: Save=5.75ms
+[2018.01.14-23.28.03:045][882]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Marine_Flipbook6529B08B4DEDF5042CA6DDA04EA5BB7C.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Images/Assets/Marine_Flipbook.uasset'
+[2018.01.14-23.28.03:046][882]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Images/Assets/Marine_Flipbook.uasset
+[2018.01.14-23.28.06:927][325]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.01.14-23.28.10:210][713]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.28.14:126][126]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.28.15:455][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Marine_BP" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset" SILENT=true
+[2018.01.14-23.28.15:485][267]LogSavePackage: Save=8.14ms
+[2018.01.14-23.28.15:485][267]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Marine_BP5DF09336419E68232F97338B1D3E7014.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset'
+[2018.01.14-23.28.15:485][267]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset
+[2018.01.14-23.28.18:207][586]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.14-23.29.18:586][703]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.29.19:284][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Marine_BP" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset" SILENT=true
+[2018.01.14-23.29.19:320][769]LogSavePackage: Save=8.05ms
+[2018.01.14-23.29.19:320][769]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Marine_BP3F8AC041452DB4FB948CBE8FD21723E2.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset'
+[2018.01.14-23.29.19:321][769]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset
+[2018.01.14-23.29.34:947][556]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.14-23.29.34:982][557]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Liberators
+[2018.01.14-23.29.34:982][557]LogTemp: CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.14-23.29.34:982][557]LogTemp: Initial Dir: D:\Epic Games\UE_4.18
+[2018.01.14-23.29.34:982][557]LogTemp: Env CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.14-23.29.34:982][557]LogTemp: BranchPath = KENNETH-PC/D/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = KENNETH-PC/D/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.14-23.29.34:998][559]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kenneth\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.14-23.30.07:505][218]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.01.14-23.30.10:699][600]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.30.19:000][578]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.30.33:510][644]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.14-23.30.33:541][644]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Liberators
+[2018.01.14-23.30.33:541][644]LogTemp: CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.14-23.30.33:541][644]LogTemp: Initial Dir: D:\Epic Games\UE_4.18
+[2018.01.14-23.30.33:541][644]LogTemp: Env CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.14-23.30.33:543][644]LogTemp: BranchPath = KENNETH-PC/D/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = KENNETH-PC/D/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.14-23.30.33:556][645]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kenneth\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.14-23.32.09:375][ 88]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.32.09:703][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Marine_BP" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset" SILENT=true
+[2018.01.14-23.32.09:722][110]LogSavePackage: Save=15.63ms
+[2018.01.14-23.32.09:722][110]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Marine_BPC7D930944D230C2814040B9EC07D2353.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset'
+[2018.01.14-23.32.09:723][110]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset
+[2018.01.14-23.32.30:094][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Liberators_GameMode" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Liberators_GameMode.uasset" SILENT=true
+[2018.01.14-23.32.30:099][363]LogSavePackage: Save=4.37ms
+[2018.01.14-23.32.30:099][363]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Liberators_GameMode446FCB5C4E54287922639DB36EF1DAFA.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Liberators_GameMode.uasset'
+[2018.01.14-23.32.30:100][363]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Liberators_GameMode.uasset
+[2018.01.14-23.32.30:309][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Liberators_GameMode" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Liberators_GameMode.uasset" SILENT=true
+[2018.01.14-23.32.30:317][384]LogSavePackage: Save=4.25ms
+[2018.01.14-23.32.30:317][384]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Liberators_GameMode960A72274D599534F24B2285201FB341.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Liberators_GameMode.uasset'
+[2018.01.14-23.32.30:318][384]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Liberators_GameMode.uasset
+[2018.01.14-23.32.37:652][238]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.14-23.32.43:910][986]BlueprintLog: New page: Compile Liberators_GameMode
+[2018.01.14-23.32.45:392][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Liberators_GameMode" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Liberators_GameMode.uasset" SILENT=true
+[2018.01.14-23.32.45:400][146]LogSavePackage: Save=4.21ms
+[2018.01.14-23.32.45:400][146]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Liberators_GameModeA4A3518847F34961939D0BA51462E6C8.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Liberators_GameMode.uasset'
+[2018.01.14-23.32.45:401][146]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Liberators_GameMode.uasset
+[2018.01.14-23.32.54:296][202]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.32.54:318][202]Cmd: MAP LOAD FILE="../../../../../GitHub/Liberators/Liberators/Content/Levels/GameScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.14-23.32.54:318][202]LightingResults: New page: Lighting Build
+[2018.01.14-23.32.54:319][202]LoadErrors: New page: Loading map: GameScreen.umap
+[2018.01.14-23.32.54:319][202]MapCheck: New page: Map Check
+[2018.01.14-23.32.54:319][202]LightingResults: New page: Lighting Build
+[2018.01.14-23.32.54:376][202]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.14-23.32.54:404][202]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.14-23.32.54:434][202]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 28.995ms to complete.
+[2018.01.14-23.32.54:434][202]LogFileHelpers: Loading map 'GameScreen' took 0.116
+[2018.01.14-23.32.57:152][525]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.14-23.33.00:026][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameScreen" FILE="../../../../../GitHub/Liberators/Liberators/Content/Levels/GameScreen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.14-23.33.00:053][867]LogSavePackage: Save=10.64ms
+[2018.01.14-23.33.00:053][867]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/GameScreen91F859A84DBF23F94231299BCFF4FC7F.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Levels/GameScreen.umap'
+[2018.01.14-23.33.00:054][867]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Levels/GameScreen.umap
+[2018.01.14-23.33.00:070][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameScreen_BuiltData" FILE="../../../../../GitHub/Liberators/Liberators/Content/Levels/GameScreen_BuiltData.uasset" SILENT=true
+[2018.01.14-23.33.00:074][867]LogSavePackage: Save=0.94ms
+[2018.01.14-23.33.00:074][867]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/GameScreen_BuiltData4B05DC1F4D2B81514F77B9B27737C3E4.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Levels/GameScreen_BuiltData.uasset'
+[2018.01.14-23.33.00:075][867]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Levels/GameScreen_BuiltData.uasset
+[2018.01.14-23.33.01:061][985]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.33.01:083][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-23.33.01:083][985]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:33:01 PM)
+[2018.01.14-23.33.01:083][985]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.33.01:084][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000698s)
+[2018.01.14-23.33.01:084][985]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.33.01:085][985]LogPlayLevel: PIE: World Init took: (0.000426s)
+[2018.01.14-23.33.01:085][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001293s)
+[2018.01.14-23.33.01:099][985]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.33.01:125][985]LogInit: FAudioDevice initialized.
+[2018.01.14-23.33.01:164][985]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.33.01:165][985]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.33.01
+[2018.01.14-23.33.01:166][985]LogWorld: Bringing up level for play took: 0.000711
+[2018.01.14-23.33.01:187][985]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.01.14-23.33.01:206][985]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen 1.084
+[2018.01.14-23.33.12:910][381]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-23.33.20:181][246]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.33.20:194][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-23.33.20:194][246]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:33:20 PM)
+[2018.01.14-23.33.20:194][246]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.33.20:195][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000695s)
+[2018.01.14-23.33.20:195][246]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.33.20:195][246]LogPlayLevel: PIE: World Init took: (0.000425s)
+[2018.01.14-23.33.20:196][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001315s)
+[2018.01.14-23.33.20:210][246]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.33.20:235][246]LogInit: FAudioDevice initialized.
+[2018.01.14-23.33.20:264][246]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.33.20:265][246]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.33.20
+[2018.01.14-23.33.20:265][246]LogWorld: Bringing up level for play took: 0.000673
+[2018.01.14-23.33.20:266][246]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen 0.145
+[2018.01.14-23.33.24:294][711]LogEditorActor: Deleted Actor: CameraActor
+[2018.01.14-23.33.24:306][711]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.01.14-23.33.55:014][348]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.33.55:027][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-23.33.55:027][348]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:33:55 PM)
+[2018.01.14-23.33.55:027][348]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.33.55:028][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000677s)
+[2018.01.14-23.33.55:028][348]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.33.55:028][348]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2018.01.14-23.33.55:028][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001464s)
+[2018.01.14-23.33.55:045][348]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.33.55:070][348]LogInit: FAudioDevice initialized.
+[2018.01.14-23.33.55:100][348]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.33.55:101][348]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.33.55
+[2018.01.14-23.33.55:101][348]LogWorld: Bringing up level for play took: 0.000860
+[2018.01.14-23.33.55:103][348]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen 0.981
+[2018.01.14-23.34.45:800][ 48]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.34.46:207][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Marine_BP" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset" SILENT=true
+[2018.01.14-23.34.46:246][ 73]LogSavePackage: Save=35.43ms
+[2018.01.14-23.34.46:246][ 73]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Marine_BPD4687B854C1FED2DC54EBB8F425259EB.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset'
+[2018.01.14-23.34.46:247][ 73]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset
+[2018.01.14-23.34.48:511][344]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.34.48:846][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Marine_BP" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset" SILENT=true
+[2018.01.14-23.34.48:865][361]LogSavePackage: Save=16.37ms
+[2018.01.14-23.34.48:865][361]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Marine_BPEB8C657044F571648BF9BBAA49CD109F.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset'
+[2018.01.14-23.34.48:866][361]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset
+[2018.01.14-23.34.49:541][442]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.34.49:554][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-23.34.49:554][442]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:34:49 PM)
+[2018.01.14-23.34.49:554][442]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.34.49:554][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000604s)
+[2018.01.14-23.34.49:555][442]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.34.49:555][442]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2018.01.14-23.34.49:555][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001343s)
+[2018.01.14-23.34.49:571][442]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.34.49:597][442]LogInit: FAudioDevice initialized.
+[2018.01.14-23.34.49:627][442]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.34.49:628][442]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.34.49
+[2018.01.14-23.34.49:628][442]LogWorld: Bringing up level for play took: 0.000794
+[2018.01.14-23.34.49:631][442]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen -0.49
+[2018.01.14-23.34.56:858][296]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.34.56:871][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-23.34.56:871][296]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:34:56 PM)
+[2018.01.14-23.34.56:872][296]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.34.56:872][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000604s)
+[2018.01.14-23.34.56:873][296]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.34.56:873][296]LogPlayLevel: PIE: World Init took: (0.000472s)
+[2018.01.14-23.34.56:873][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001246s)
+[2018.01.14-23.34.56:888][296]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.34.56:913][296]LogInit: FAudioDevice initialized.
+[2018.01.14-23.34.56:949][296]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.34.56:949][296]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.34.56
+[2018.01.14-23.34.56:950][296]LogWorld: Bringing up level for play took: 0.000733
+[2018.01.14-23.34.56:953][296]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen 0.832
+[2018.01.14-23.35.08:102][619]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.35.25:554][659]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.35.25:947][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Marine_BP" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset" SILENT=true
+[2018.01.14-23.35.25:968][688]LogSavePackage: Save=18.91ms
+[2018.01.14-23.35.25:968][688]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Marine_BPA40309924663A8179A1F3B929E167627.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset'
+[2018.01.14-23.35.25:969][688]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset
+[2018.01.14-23.35.26:684][773]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.35.26:697][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-23.35.26:697][773]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:35:26 PM)
+[2018.01.14-23.35.26:697][773]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.35.26:698][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000620s)
+[2018.01.14-23.35.26:698][773]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.35.26:699][773]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2018.01.14-23.35.26:699][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001283s)
+[2018.01.14-23.35.26:714][773]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.35.26:739][773]LogInit: FAudioDevice initialized.
+[2018.01.14-23.35.26:774][773]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.35.26:774][773]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.35.26
+[2018.01.14-23.35.26:775][773]LogWorld: Bringing up level for play took: 0.000745
+[2018.01.14-23.35.26:778][773]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen 0.656
+[2018.01.14-23.35.27:695][878]LogBlueprintUserMessages: [Marine_BP_C_0] right
+[2018.01.14-23.35.28:353][957]LogBlueprintUserMessages: [Marine_BP_C_0] right
+[2018.01.14-23.35.28:661][994]LogBlueprintUserMessages: [Marine_BP_C_0] right
+[2018.01.14-23.35.29:311][ 72]LogBlueprintUserMessages: [Marine_BP_C_0] right
+[2018.01.14-23.35.29:912][144]LogBlueprintUserMessages: [Marine_BP_C_0] right
+[2018.01.14-23.35.30:045][160]LogBlueprintUserMessages: [Marine_BP_C_0] right
+[2018.01.14-23.35.30:203][179]LogBlueprintUserMessages: [Marine_BP_C_0] right
+[2018.01.14-23.35.33:971][623]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.35.34:354][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Marine_BP" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset" SILENT=true
+[2018.01.14-23.35.34:379][651]LogSavePackage: Save=21.35ms
+[2018.01.14-23.35.34:379][651]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Marine_BPC53B54AB433C60032DD1D4A3DCC3F71E.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset'
+[2018.01.14-23.35.34:380][651]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset
+[2018.01.14-23.35.34:962][720]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.35.34:975][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-23.35.34:976][720]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:35:34 PM)
+[2018.01.14-23.35.34:976][720]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.35.34:976][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000628s)
+[2018.01.14-23.35.34:977][720]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.35.34:977][720]LogPlayLevel: PIE: World Init took: (0.000520s)
+[2018.01.14-23.35.34:977][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001325s)
+[2018.01.14-23.35.34:992][720]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.35.35:017][720]LogInit: FAudioDevice initialized.
+[2018.01.14-23.35.35:052][720]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.35.35:053][720]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.35.35
+[2018.01.14-23.35.35:053][720]LogWorld: Bringing up level for play took: 0.000737
+[2018.01.14-23.35.35:056][720]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen 0.935
+[2018.01.14-23.35.35:809][807]LogBlueprintUserMessages: [Marine_BP_C_0] right
+[2018.01.14-23.35.50:940][475]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.14-23.35.50:980][477]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Liberators
+[2018.01.14-23.35.50:980][477]LogTemp: CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.14-23.35.50:980][477]LogTemp: Initial Dir: D:\Epic Games\UE_4.18
+[2018.01.14-23.35.50:980][477]LogTemp: Env CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.14-23.35.50:987][478]LogTemp: BranchPath = KENNETH-PC/D/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = KENNETH-PC/D/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.14-23.35.50:997][479]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kenneth\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.14-23.37.49:960][219]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.37.50:694][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Marine_BP" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset" SILENT=true
+[2018.01.14-23.37.50:714][289]LogSavePackage: Save=16.17ms
+[2018.01.14-23.37.50:714][289]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Marine_BPD58E66384A3A2D5442AE1493B8D2E573.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset'
+[2018.01.14-23.37.50:715][289]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset
+[2018.01.14-23.37.51:330][362]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.37.51:342][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-23.37.51:343][362]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:37:51 PM)
+[2018.01.14-23.37.51:343][362]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.37.51:343][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000618s)
+[2018.01.14-23.37.51:344][362]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.37.51:344][362]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2018.01.14-23.37.51:344][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001320s)
+[2018.01.14-23.37.51:359][362]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.37.51:384][362]LogInit: FAudioDevice initialized.
+[2018.01.14-23.37.51:416][362]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.37.51:416][362]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.37.51
+[2018.01.14-23.37.51:417][362]LogWorld: Bringing up level for play took: 0.000781
+[2018.01.14-23.37.51:419][362]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen -0.702
+[2018.01.14-23.38.44:723][353]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.38.45:202][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Marine_BP" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset" SILENT=true
+[2018.01.14-23.38.45:223][392]LogSavePackage: Save=17.51ms
+[2018.01.14-23.38.45:223][392]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Marine_BPE2BC7D1C4F0C07F4483EE8A936D36491.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset'
+[2018.01.14-23.38.45:224][392]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset
+[2018.01.14-23.38.45:972][481]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.38.45:985][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-23.38.45:986][481]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:38:45 PM)
+[2018.01.14-23.38.45:986][481]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.38.45:986][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000599s)
+[2018.01.14-23.38.45:987][481]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.38.45:987][481]LogPlayLevel: PIE: World Init took: (0.000440s)
+[2018.01.14-23.38.45:987][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001202s)
+[2018.01.14-23.38.46:002][481]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.38.46:028][481]LogInit: FAudioDevice initialized.
+[2018.01.14-23.38.46:064][481]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.38.46:065][481]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.38.46
+[2018.01.14-23.38.46:066][481]LogWorld: Bringing up level for play took: 0.000841
+[2018.01.14-23.38.46:068][481]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen -0.053
+[2018.01.14-23.38.47:768][678]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:777][679]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:785][680]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:793][681]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:801][682]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:810][683]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:818][684]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:826][685]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:835][686]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:843][687]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:852][688]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:860][689]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:868][690]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:877][691]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:885][692]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:893][693]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:902][694]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:910][695]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:918][696]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:927][697]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:935][698]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:943][699]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:952][700]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:960][701]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:968][702]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:976][703]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:985][704]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.47:993][705]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:001][706]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:010][707]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:018][708]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:026][709]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:035][710]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:043][711]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:052][712]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:060][713]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:068][714]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:077][715]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:085][716]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:093][717]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:102][718]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:110][719]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:118][720]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:127][721]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:135][722]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:143][723]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:152][724]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:160][725]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:168][726]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:176][727]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:185][728]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:193][729]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:201][730]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:210][731]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:218][732]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:227][733]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:235][734]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:243][735]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:252][736]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:260][737]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:268][738]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:277][739]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:285][740]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:293][741]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:302][742]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:310][743]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:318][744]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:327][745]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:335][746]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:343][747]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:735][794]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:743][795]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:751][796]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:760][797]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:768][798]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:776][799]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:785][800]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:794][801]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:802][802]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:810][803]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:818][804]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:827][805]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:835][806]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:843][807]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:852][808]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:860][809]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:868][810]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:877][811]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:885][812]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:893][813]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:902][814]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:910][815]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:918][816]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:927][817]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:935][818]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:943][819]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:951][820]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:960][821]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:968][822]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:976][823]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:985][824]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.48:993][825]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:002][826]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:010][827]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:018][828]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:027][829]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:035][830]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:043][831]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:052][832]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:060][833]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:068][834]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:077][835]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:085][836]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:093][837]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:102][838]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:110][839]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:118][840]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:126][841]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:135][842]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:143][843]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:151][844]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:160][845]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:169][846]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:177][847]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:185][848]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:193][849]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:202][850]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:310][863]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:318][864]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:326][865]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:335][866]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:343][867]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:351][868]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:360][869]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:368][870]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:377][871]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:385][872]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:393][873]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:402][874]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:410][875]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:418][876]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:427][877]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:435][878]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:443][879]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:452][880]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:460][881]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:468][882]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:477][883]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:485][884]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:493][885]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:501][886]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:510][887]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:518][888]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:526][889]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:535][890]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:544][891]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:552][892]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:560][893]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:568][894]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:577][895]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:585][896]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:593][897]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:602][898]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:610][899]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:618][900]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:627][901]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:635][902]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:643][903]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:652][904]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:660][905]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:668][906]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:676][907]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:685][908]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:693][909]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:701][910]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:710][911]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:718][912]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:726][913]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:735][914]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:744][915]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:752][916]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:760][917]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:768][918]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:777][919]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:785][920]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:793][921]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:802][922]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:810][923]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:818][924]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:827][925]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:835][926]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:843][927]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:852][928]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:860][929]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:868][930]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:877][931]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:885][932]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:893][933]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:901][934]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:910][935]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:919][936]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:927][937]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:935][938]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:944][939]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:952][940]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:960][941]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:968][942]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:977][943]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:985][944]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.49:993][945]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:002][946]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:010][947]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:018][948]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:027][949]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:035][950]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:043][951]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:052][952]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:060][953]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:068][954]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:076][955]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:085][956]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:093][957]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:101][958]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:110][959]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:119][960]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:127][961]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:135][962]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:143][963]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:152][964]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:160][965]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:168][966]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:177][967]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:185][968]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:193][969]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:202][970]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:210][971]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:218][972]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:227][973]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:235][974]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:243][975]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:251][976]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:260][977]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:268][978]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:276][979]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:285][980]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:294][981]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:302][982]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:310][983]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:318][984]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:327][985]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:335][986]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:343][987]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:352][988]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:360][989]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:368][990]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:377][991]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:385][992]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:393][993]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:402][994]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:410][995]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:418][996]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.38.50:427][997]LogBlueprintUserMessages: [Marine_BP_C_0] Moving
+[2018.01.14-23.39.16:327][357]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.14-23.39.16:358][357]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Liberators
+[2018.01.14-23.39.16:358][357]LogTemp: CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.14-23.39.16:358][357]LogTemp: Initial Dir: D:\Epic Games\UE_4.18
+[2018.01.14-23.39.16:358][357]LogTemp: Env CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.14-23.39.16:360][357]LogTemp: BranchPath = KENNETH-PC/D/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = KENNETH-PC/D/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.14-23.39.16:373][358]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kenneth\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.14-23.39.25:465][447]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.39.25:479][447]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.14-23.39.25:481][447]LogPlayLevel: [PlayLevel] Compiling Marine_BP before play...
+[2018.01.14-23.39.25:616][447]LogPlayLevel: PlayLevel: Blueprint regeneration took 137 ms (1 blueprints)
+[2018.01.14-23.39.25:616][447]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:39:25 PM)
+[2018.01.14-23.39.25:616][447]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.39.25:617][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000627s)
+[2018.01.14-23.39.25:617][447]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.39.25:618][447]LogPlayLevel: PIE: World Init took: (0.000474s)
+[2018.01.14-23.39.25:618][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001272s)
+[2018.01.14-23.39.25:633][447]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.39.25:658][447]LogInit: FAudioDevice initialized.
+[2018.01.14-23.39.25:686][447]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.39.25:687][447]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.39.25
+[2018.01.14-23.39.25:687][447]LogWorld: Bringing up level for play took: 0.000715
+[2018.01.14-23.39.25:689][447]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen -0.433
+[2018.01.14-23.39.28:536][778]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.39.28:549][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-23.39.28:549][778]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:39:28 PM)
+[2018.01.14-23.39.28:549][778]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.39.28:549][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000608s)
+[2018.01.14-23.39.28:550][778]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.39.28:550][778]LogPlayLevel: PIE: World Init took: (0.000437s)
+[2018.01.14-23.39.28:550][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001241s)
+[2018.01.14-23.39.28:565][778]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.39.28:590][778]LogInit: FAudioDevice initialized.
+[2018.01.14-23.39.28:617][778]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.39.28:618][778]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.39.28
+[2018.01.14-23.39.28:618][778]LogWorld: Bringing up level for play took: 0.000641
+[2018.01.14-23.39.28:619][778]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen 0.498
+[2018.01.14-23.39.37:593][848]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMap)
+[2018.01.14-23.39.48:908][178]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.39.49:266][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Marine_BP" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset" SILENT=true
+[2018.01.14-23.39.49:336][203]LogSavePackage: Save=65.95ms
+[2018.01.14-23.39.49:336][203]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Marine_BP7F594B2749B26B3AD59FEBA42BEBF765.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset'
+[2018.01.14-23.39.49:337][203]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset
+[2018.01.14-23.41.06:903][397]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.14-23.41.09:978][756]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.41.11:001][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Marine_BP" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset" SILENT=true
+[2018.01.14-23.41.11:020][857]LogSavePackage: Save=16.04ms
+[2018.01.14-23.41.11:020][857]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Marine_BPC1CD36DB472C888318B32D8DA628C866.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset'
+[2018.01.14-23.41.11:021][857]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset
+[2018.01.14-23.41.11:594][926]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.41.11:607][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-23.41.11:607][926]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:41:11 PM)
+[2018.01.14-23.41.11:608][926]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.41.11:608][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000612s)
+[2018.01.14-23.41.11:609][926]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.41.11:609][926]LogPlayLevel: PIE: World Init took: (0.000469s)
+[2018.01.14-23.41.11:609][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001249s)
+[2018.01.14-23.41.11:624][926]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.41.11:650][926]LogInit: FAudioDevice initialized.
+[2018.01.14-23.41.11:682][926]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.41.11:683][926]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.41.11
+[2018.01.14-23.41.11:683][926]LogWorld: Bringing up level for play took: 0.000896
+[2018.01.14-23.41.11:686][926]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen -0.436
+[2018.01.14-23.41.53:291][858]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.41.53:730][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Marine_BP" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset" SILENT=true
+[2018.01.14-23.41.53:752][892]LogSavePackage: Save=19.05ms
+[2018.01.14-23.41.53:752][892]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Marine_BP63AEC2E743ADF09159AE88B91C3D5570.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset'
+[2018.01.14-23.41.53:753][892]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset
+[2018.01.14-23.41.55:741][127]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.41.56:145][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Marine_BP" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset" SILENT=true
+[2018.01.14-23.41.56:166][157]LogSavePackage: Save=18.58ms
+[2018.01.14-23.41.56:166][157]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Marine_BPA99439084F2D56369D3D51ABF397C656.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset'
+[2018.01.14-23.41.56:167][157]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset
+[2018.01.14-23.41.56:850][238]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.41.56:863][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-23.41.56:863][238]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:41:56 PM)
+[2018.01.14-23.41.56:863][238]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.41.56:863][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000593s)
+[2018.01.14-23.41.56:864][238]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.41.56:864][238]LogPlayLevel: PIE: World Init took: (0.000435s)
+[2018.01.14-23.41.56:864][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001194s)
+[2018.01.14-23.41.56:879][238]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.41.56:904][238]LogInit: FAudioDevice initialized.
+[2018.01.14-23.41.56:934][238]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.41.56:935][238]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.41.56
+[2018.01.14-23.41.56:936][238]LogWorld: Bringing up level for play took: 0.000720
+[2018.01.14-23.41.56:939][238]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen 0.817
+[2018.01.14-23.42.11:322][951]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.42.11:731][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Marine_BP" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset" SILENT=true
+[2018.01.14-23.42.11:750][982]LogSavePackage: Save=15.86ms
+[2018.01.14-23.42.11:750][982]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Marine_BP22AC8F2D487F2493A5E189913A77B986.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset'
+[2018.01.14-23.42.11:751][982]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset
+[2018.01.14-23.42.15:942][484]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.42.15:955][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-23.42.15:955][484]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:42:15 PM)
+[2018.01.14-23.42.15:956][484]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.42.15:956][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000663s)
+[2018.01.14-23.42.15:957][484]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.42.15:957][484]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.01.14-23.42.15:957][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001431s)
+[2018.01.14-23.42.15:973][484]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.42.15:999][484]LogInit: FAudioDevice initialized.
+[2018.01.14-23.42.16:026][484]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.42.16:027][484]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.42.16
+[2018.01.14-23.42.16:027][484]LogWorld: Bringing up level for play took: 0.000748
+[2018.01.14-23.42.16:029][484]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen -0.093
+[2018.01.14-23.43.46:994][545]BlueprintLog: New page: Compile Marine_BP
+[2018.01.14-23.43.47:524][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Marine_BP" FILE="../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset" SILENT=true
+[2018.01.14-23.43.47:544][590]LogSavePackage: Save=17.43ms
+[2018.01.14-23.43.47:544][590]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/Marine_BPBF18A90A48E22B99CB50B1A03EE7F0E1.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset'
+[2018.01.14-23.43.47:545][590]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Blueprints/Marine_BP.uasset
+[2018.01.14-23.43.48:293][679]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.43.48:305][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-23.43.48:306][679]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:43:48 PM)
+[2018.01.14-23.43.48:306][679]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.43.48:306][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000604s)
+[2018.01.14-23.43.48:307][679]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.43.48:307][679]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2018.01.14-23.43.48:307][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001226s)
+[2018.01.14-23.43.48:322][679]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.43.48:348][679]LogInit: FAudioDevice initialized.
+[2018.01.14-23.43.48:381][679]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.43.48:382][679]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.43.48
+[2018.01.14-23.43.48:382][679]LogWorld: Bringing up level for play took: 0.000772
+[2018.01.14-23.43.48:385][679]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen 0.264
+[2018.01.14-23.43.57:891][743]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.14-23.43.57:932][745]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Liberators
+[2018.01.14-23.43.57:932][745]LogTemp: CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.14-23.43.57:932][745]LogTemp: Initial Dir: D:\Epic Games\UE_4.18
+[2018.01.14-23.43.57:932][745]LogTemp: Env CWD: D:\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.14-23.43.57:932][745]LogTemp: BranchPath = KENNETH-PC/D/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = KENNETH-PC/D/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.14-23.43.57:948][747]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kenneth\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.14-23.44.21:121][509]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.44.21:135][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-23.44.21:135][509]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:44:21 PM)
+[2018.01.14-23.44.21:135][509]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.44.21:136][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000663s)
+[2018.01.14-23.44.21:136][509]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.44.21:136][509]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2018.01.14-23.44.21:136][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001404s)
+[2018.01.14-23.44.21:152][509]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.44.21:178][509]LogInit: FAudioDevice initialized.
+[2018.01.14-23.44.21:208][509]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.44.21:209][509]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.44.21
+[2018.01.14-23.44.21:209][509]LogWorld: Bringing up level for play took: 0.000683
+[2018.01.14-23.44.21:211][509]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen -0.911
+[2018.01.14-23.44.24:085][844]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-23.44.24:098][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-23.44.24:098][844]PIE: New page: PIE session: GameScreen (Jan 14, 2018, 1:44:24 PM)
+[2018.01.14-23.44.24:098][844]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameScreen
+[2018.01.14-23.44.24:099][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000591s)
+[2018.01.14-23.44.24:099][844]LogAIModule: Creating AISystem for world GameScreen
+[2018.01.14-23.44.24:099][844]LogPlayLevel: PIE: World Init took: (0.000427s)
+[2018.01.14-23.44.24:099][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameScreen.GameScreen to /Game/Levels/UEDPIE_0_GameScreen.GameScreen (0.001183s)
+[2018.01.14-23.44.24:115][844]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-23.44.24:140][844]LogInit: FAudioDevice initialized.
+[2018.01.14-23.44.24:168][844]LogLoad: Game class is 'Liberators_GameMode_C'
+[2018.01.14-23.44.24:169][844]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameScreen.GameScreen up for play (max tick rate 0) at 2018.01.14-18.44.24
+[2018.01.14-23.44.24:169][844]LogWorld: Bringing up level for play took: 0.000797
+[2018.01.14-23.44.24:171][844]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameScreen 0.049
+[2018.01.14-23.44.25:700][ 27]LogBlueprintUserMessages: [Marine_BP_C_0] jump
+[2018.01.14-23.44.27:042][188]LogBlueprintUserMessages: [Marine_BP_C_0] jump
+[2018.01.14-23.45.21:328][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameScreen" FILE="../../../../../GitHub/Liberators/Liberators/Content/Levels/GameScreen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.14-23.45.21:355][553]LogSavePackage: Save=9.23ms
+[2018.01.14-23.45.21:355][553]LogSavePackage: Moving '../../../../../GitHub/Liberators/Liberators/Saved/GameScreen0014B28E43E3F30FB1232F8691908FDE.tmp' to '../../../../../GitHub/Liberators/Liberators/Content/Levels/GameScreen.umap'
+[2018.01.14-23.45.21:356][553]LogSavePackage: Display: Finished SavePackage ../../../../../GitHub/Liberators/Liberators/Content/Levels/GameScreen.umap
+[2018.01.14-23.45.21:372][553]LogFileHelpers: Saving map 'GameScreen' took 0.076
+[2018.01.14-23.45.21:465][553]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.14-23.45.21:576][553]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.14-23.45.21:779][554]Cmd: QUIT_EDITOR
+[2018.01.14-23.45.22:771][554]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.14-23.45.22:771][554]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.14-23.45.22:778][554]LogExit: Preparing to exit.
+[2018.01.14-23.45.23:484][554]LogDirectoryWatcher: A directory notification for 'D:/GitHub/Liberators/Liberators/Content/' was aborted.
+[2018.01.14-23.45.23:501][554]LogExit: Editor shut down
+[2018.01.14-23.45.23:504][554]LogExit: Transaction tracking system shut down
+[2018.01.14-23.45.23:653][554]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.14-23.45.23:653][554]LogDirectoryWatcher: A directory notification for '../../../../../GitHub/Liberators/Liberators/Content/' was aborted.
+[2018.01.14-23.45.23:653][554]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.14-23.45.23:653][554]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.14-23.45.23:653][554]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.14-23.45.23:653][554]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.14-23.45.23:653][554]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.14-23.45.23:707][554]LogExit: Object subsystem successfully closed.
+[2018.01.14-23.45.23:726][554]LogD3D11RHI: Shutdown
+[2018.01.14-23.45.23:726][554]LogD3D11RHI: CleanupD3DDevice
+[2018.01.14-23.45.23:727][554]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.14-23.45.23:732][554]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (556)
+[2018.01.14-23.45.23:732][554]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (554)
+[2018.01.14-23.45.23:732][554]LogModuleManager: Shutting down and abandoning module TextureEditor (552)
+[2018.01.14-23.45.23:732][554]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.01.14-23.45.23:732][554]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.01.14-23.45.23:732][554]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.01.14-23.45.23:732][554]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.01.14-23.45.23:732][554]LogDirectoryWatcher: A directory notification for 'D:/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.01.14-23.45.23:733][554]LogDirectoryWatcher: A directory notification for 'D:/GitHub/Liberators/Liberators/Content/Collections/' was aborted.
+[2018.01.14-23.45.23:733][554]LogDirectoryWatcher: A directory notification for 'D:/GitHub/Liberators/Liberators/Content/Developers/Kenneth/Collections/' was aborted.
+[2018.01.14-23.45.23:733][554]LogDirectoryWatcher: A directory notification for 'D:/GitHub/Liberators/Liberators/Saved/Collections/' was aborted.
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.14-23.45.23:733][554]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.14-23.45.23:734][554]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.14-23.45.24:096][554]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.14-23.45.24:148][554]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.14-23.45.24:148][554]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.14-23.45.24:148][554]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.14-23.45.24:148][554]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.14-23.45.24:148][554]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.14-23.45.24:148][554]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.14-23.45.24:148][554]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.14-23.45.24:148][554]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.14-23.45.24:148][554]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.14-23.45.24:148][554]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.14-23.45.24:153][554]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.14-23.45.24:154][554]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.14-23.45.24:389][554]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.14-23.45.24:390][554]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.14-23.45.24:390][554]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.14-23.45.24:390][554]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.14-23.45.24:390][554]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.14-23.45.24:390][554]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.14-23.45.24:390][554]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.14-23.45.24:390][554]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.14-23.45.24:390][554]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.14-23.45.24:390][554]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.14-23.45.24:390][554]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.14-23.45.24:390][554]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.14-23.45.24:390][554]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.14-23.45.24:390][554]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.14-23.45.24:491][554]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.14-23.45.24:591][554]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.14-23.45.24:591][554]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.14-23.45.24:591][554]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.14-23.45.24:591][554]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.14-23.45.24:591][554]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.14-23.45.24:591][554]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.14-23.45.24:591][554]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.14-23.45.24:591][554]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.14-23.45.24:591][554]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.14-23.45.24:591][554]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.14-23.45.24:592][554]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.14-23.45.24:593][554]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.14-23.45.24:593][554]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.14-23.45.24:593][554]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.14-23.45.24:593][554]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.14-23.45.24:593][554]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.14-23.45.24:599][554]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.14-23.45.24:599][554]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.14-23.45.24:599][554]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.14-23.45.24:599][554]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.14-23.45.24:599][554]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.14-23.45.24:599][554]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.14-23.45.24:599][554]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.14-23.45.24:599][554]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.14-23.45.24:599][554]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.14-23.45.24:599][554]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.14-23.45.24:599][554]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.14-23.45.24:599][554]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.14-23.45.24:599][554]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.14-23.45.24:599][554]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.14-23.45.24:599][554]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.14-23.45.24:599][554]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.14-23.45.24:600][554]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.14-23.45.24:600][554]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.14-23.45.24:600][554]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.14-23.45.24:600][554]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.14-23.45.24:600][554]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.14-23.45.24:600][554]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.14-23.45.24:600][554]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.14-23.45.24:600][554]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.14-23.45.24:601][554]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.14-23.45.24:601][554]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.14-23.45.24:601][554]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.14-23.45.24:601][554]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.14-23.45.24:601][554]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.14-23.45.24:601][554]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.14-23.45.24:601][554]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.14-23.45.24:601][554]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.14-23.45.24:601][554]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.14-23.45.24:631][554]LogDerivedDataCache: Shutdown
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.14-23.45.24:631][554]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.14-23.45.24:632][554]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.14-23.45.24:632][554]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.14-23.45.24:632][554]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC8297C81-47DA-062C-BE6B-7E80BB20DE52%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=684fc38d4749579f8ad3009baed586ca%7C38e9dc394e8a4184b01044fcc4448257%7C119523ed-14ae-49b4-88d7-6d172c2137b4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.14-23.45.24:637][554]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.14-23.45.24:638][554]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.14-23.45.24:638][554]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.14-23.45.24:638][554]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.14-23.45.24:638][554]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.14-23.45.24:639][554]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.14-23.45.24:639][554]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.14-23.45.24:639][554]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.14-23.45.24:640][554]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.14-23.45.24:640][554]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.14-23.45.24:640][554]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.14-23.45.24:640][554]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.14-23.45.24:640][554]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.14-23.45.24:640][554]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.14-23.45.24:640][554]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.14-23.45.24:640][554]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.14-23.45.24:640][554]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.14-23.45.24:640][554]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.14-23.45.24:640][554]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.14-23.45.24:642][554]LogExit: Exiting.
+[2018.01.14-23.45.24:650][554]Log file closed, 01/14/18 18:45:24
