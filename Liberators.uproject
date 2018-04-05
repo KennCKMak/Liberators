@@ -1,6 +1,16 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{13AF32EF-4339-18E6-C156-5CB0D8B2BDE3}",
+	"EngineAssociation": "{9FBD9CF0-4CC1-DD1D-2354-18B35EA09AD3}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Liberators",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
 }
