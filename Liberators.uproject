@@ -1,20 +1,6 @@
 {
 	"FileVersion": 3,
-<<<<<<< HEAD
 	"EngineAssociation": "4.18",
-=======
-	"EngineAssociation": "{9FBD9CF0-4CC1-DD1D-2354-18B35EA09AD3}",
->>>>>>> master
 	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "Liberators",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	]
+	"Description": ""
 }
